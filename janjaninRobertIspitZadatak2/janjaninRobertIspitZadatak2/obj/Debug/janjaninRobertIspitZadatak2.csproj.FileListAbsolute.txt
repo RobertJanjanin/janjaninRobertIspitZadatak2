@@ -1,0 +1,7 @@
+C:\Users\Učenik 5\source\repos\janjaninRobertIspitZadatak2\janjaninRobertIspitZadatak2\obj\Debug\janjaninRobertIspitZadatak2.csprojAssemblyReference.cache
+C:\Users\Učenik 5\source\repos\janjaninRobertIspitZadatak2\janjaninRobertIspitZadatak2\obj\Debug\janjaninRobertIspitZadatak2.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 5\source\repos\janjaninRobertIspitZadatak2\janjaninRobertIspitZadatak2\bin\Debug\janjaninRobertIspitZadatak2.exe.config
+C:\Users\Učenik 5\source\repos\janjaninRobertIspitZadatak2\janjaninRobertIspitZadatak2\bin\Debug\janjaninRobertIspitZadatak2.exe
+C:\Users\Učenik 5\source\repos\janjaninRobertIspitZadatak2\janjaninRobertIspitZadatak2\bin\Debug\janjaninRobertIspitZadatak2.pdb
+C:\Users\Učenik 5\source\repos\janjaninRobertIspitZadatak2\janjaninRobertIspitZadatak2\obj\Debug\janjaninRobertIspitZadatak2.exe
+C:\Users\Učenik 5\source\repos\janjaninRobertIspitZadatak2\janjaninRobertIspitZadatak2\obj\Debug\janjaninRobertIspitZadatak2.pdb
